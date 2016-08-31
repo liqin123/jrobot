@@ -9,7 +9,7 @@ Please get start kits [taobao $120](https://item.taobao.com/item.htm?spm=a230r.1
 qq group: 371582470
 app: jrobot
 
-![video demo]http://v.youku.com/v_show/id_XMTcwMTE4NjE5Mg==.html?from=y1.7-2)
+![video demo](http://v.youku.com/v_show/id_XMTcwMTE4NjE5Mg==.html?from=y1.7-2)
 
 ![3d printed jrobot](https://github.com/junbowu/jrobot/blob/master/images/jrobot-1.jpg)
 
