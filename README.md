@@ -8,10 +8,14 @@ Note: This is a work in progress. We are still busy building and testing it. Pro
 Please get start kits [taobao $120](https://item.taobao.com/item.htm?spm=a230r.1.14.28.0Gwvvy&id=531972040644&ns=1&abbucket=7#detail)
 
 
-![3d printed jrobot]https://github.com/junbowu/jrobot/images/jrobot-1.jpg
-![3d printed jrobot]https://github.com/junbowu/jrobot/images/jrobot-2.jpg
-![3d printed jrobot]https://github.com/junbowu/jrobot/images/jrobot-3.jpg
-![3d printed jrobot]https://github.com/junbowu/jrobot/images/jrobot-4.jpg
-![3d printed jrobot]https://github.com/junbowu/jrobot/images/jrobot-5.jpg
-## License
+![3d printed jrobot]https://github.com/junbowu/jrobot/blob/master/images/jrobot-1.jpg
+
+![3d printed jrobot]https://github.com/junbowu/jrobot/blob/master/images/jrobot-2.jpg
+
+![3d printed jrobot]https://github.com/junbowu/jrobot/blob/master/images/jrobot-3.jpg
+
+![3d printed jrobot]https://github.com/junbowu/jrobot/blob/master/images/jrobot-4.jpg
+
+![3d printed jrobot]https://github.com/junbowu/jrobot/blob/master/images/jrobot-5.jpg
+
 This software is released under the MIT License.
