@@ -6,10 +6,11 @@ The 3d printed parts are inspired by the PLEN2 parts but were redrawn from scrat
 Note: This is a work in progress. We are still busy building and testing it. Proceed at own risk :)
 
 Please get start kits [taobao $120](https://item.taobao.com/item.htm?spm=a230r.1.14.28.0Gwvvy&id=531972040644&ns=1&abbucket=7#detail)
+
 qq group: 371582470
 app: jrobot
 
-![video demo](http://v.youku.com/v_show/id_XMTcwMTE4NjE5Mg==.html?from=y1.7-2)
+video demo:http://v.youku.com/v_show/id_XMTcwMTE4NjE5Mg==.html?from=y1.7-2
 
 ![3d printed jrobot](https://github.com/junbowu/jrobot/blob/master/images/jrobot-1.jpg)
 
